@@ -16,3 +16,4 @@ Uses:
 - f2-plugins-updated @ 49d3d877dbdd3a4cd38917c4022cf63a16539a97 (https://github.com/sapphonie/f2-plugins-updated)
 - MGEMod 2.2.1 (https://github.com/Lange/MGEMod)
 - SOAPDM @ 39d9c6a400046635f7667c64dfbc1a843b54300a (https://github.com/Lange/SOAP-TF2DM)
+- UltimateMapChooser @ 13ebb9356ebdea2822ab8c25109225f91d7a9667 (https://github.com/Silenci0/UMC)
