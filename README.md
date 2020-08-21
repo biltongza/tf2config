@@ -17,3 +17,6 @@ Uses:
 - MGEMod 2.2.1 (https://github.com/Lange/MGEMod)
 - SOAPDM @ 39d9c6a400046635f7667c64dfbc1a843b54300a (https://github.com/Lange/SOAP-TF2DM)
 - UltimateMapChooser @ 13ebb9356ebdea2822ab8c25109225f91d7a9667 (https://github.com/Silenci0/UMC)
+- LogsTF uploader (https://www.teamfortress.tv/13598/?page=1#post-1)
+  - Curl 1.3.0.0 (https://forums.alliedmods.net/showthread.php?t=152216)
+  
