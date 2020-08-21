@@ -192,6 +192,7 @@
 {
     "BBall"
     {
+        "maps_invote" "2"
         "ctf_ballin" { }
         "ctf_ballin_comptf" { }  
         "ctf_ballin_sky" { }     
@@ -204,6 +205,7 @@
     }
     "Dodgeball"
     {
+        "maps_invote" "2"
         "tfdb_amazon_alpha" { }
         "tfdb_baseball_rc1" { }
         "tfdb_bk_castleyard_beta" { }
@@ -261,6 +263,7 @@
     }
     "MGE"
     {
+        "maps_invote" "5"
         "mge_bball_v2" { }
         "mge_dueling_v1_fix1" { }
         "mge_oihguv_sucks_a12" { }
@@ -269,6 +272,7 @@
     }
     "Prophunt"
     {
+        "maps_invote" "3"
         "arena_brawl_b1" { }
         "arena_concord_b3" { }
         "arena_desolation_pb1" { }
@@ -303,9 +307,9 @@
     }
     "Jump (Demo)"
     {
+        "maps_invote" "3"
         "charge_pork" { }
         "cp_jumpspirit_b2" { }
-        "jump_4demo_fixed5" { }
         "jump_4demo_fixed6" { }
         "jump_aando_b1_tmps" { }
         "jump_aggregate" { }
@@ -316,7 +320,6 @@
         "jump_armature_final_zip" { }
         "jump_around_cr" { }
         "jump_artificial_a13" { }
-        "jump_arugula_b3" { }
         "jump_arugula_b4" { }
         "jump_asdf" { }
         "jump_aurora_v2" { }
@@ -324,7 +327,6 @@
         "jump_bob_fixed" { }
         "jump_cake_b2" { }
         "jump_carrot_a5" { }
-        "jump_cavern" { }
         "jump_cavern_final" { }
         "jump_compound" { }
         "jump_contact" { }
@@ -353,14 +355,12 @@
         "jump_fart_final" { }
         "jump_fisyx" { }
         "jump_flux" { }
-        "jump_flux_rc4" { }
         "jump_foss" { }
         "jump_frayb_a4" { }
         "jump_free_b2" { }
         "jump_future_rebuild" { }
         "jump_garbage_a7" { }
         "jump_glassydev_final" { }
-        "jump_glassydev_rc3" { }
         "jump_grape_final" { }
         "jump_grimace" { }
         "jump_halcyon_b3" { }
@@ -369,16 +369,12 @@
         "jump_hobo" { }
         "jump_hobo2_fixed" { }
         "jump_homie_beta" { }
-        "jump_horus_b5" { }
         "jump_horus_b5_tpn" { }
         "jump_how" { }
         "jump_huh_b6" { }
-        "jump_hydrogen_b1" { }
         "jump_hydrogen_rc1" { }
         "jump_ice_v4" { }
         "jump_illusion_final" { }
-        "jump_illusion_rc2" { }
-        "jump_internal_b3" { }
         "jump_internal_b4" { }
         "jump_isak_b4" { }
         "jump_jabroni" { }
@@ -386,20 +382,17 @@
         "jump_jorgelayja_redo" { }
         "jump_jorgelayja_tmps" { }
         "jump_karb_b3" { }
-        "jump_karelia_b1" { }
         "jump_karelia_rc1" { }
         "jump_keratotomy_b8" { }
         "jump_khoa" { }
         "jump_kiddersmoney_b10" { }
         "jump_koi" { }
         "jump_lanc_v3" { }
-        "jump_lithium" { }
         "jump_lithium_fix2" { }
         "jump_lost_a6" { }
         "jump_luminous_rc5" { }
         "jump_m0nkey_a5" { }
         "jump_m0rg" { }
-        "jump_m0rg_a2" { }
         "jump_mad_rc3" { }
         "jump_miner" { }
         "jump_mireal" { }
@@ -438,8 +431,6 @@
         "jump_rewind" { }
         "jump_ring" { }
         "jump_ring2" { }
-        "jump_ring2_a5" { }
-        "jump_ring2_a6" { }
         "jump_rutabaga_rc2" { }
         "jump_rvr_b1" { }
         "jump_samurai_b3" { }
@@ -493,6 +484,7 @@
     }
     "Jump (Soldier)"
     {
+        "maps_invote" "3"
         "colour_jumper_rocket" { }
         "cp_easy_jump_final" { }
         "cp_jump_7skill" { }
@@ -504,7 +496,6 @@
         "jump_4starters_rc1" { }
         "jump_4starters_rebuilt" { }
         "jump_abandon" { }
-        "jump_ablation_b3" { }
         "jump_ablation_b4" { }
         "jump_above_rc1" { }
         "jump_abuq" { }
@@ -526,15 +517,12 @@
         "jump_aigis_a4" { }
         "jump_airships_v2" { }
         "jump_allstars" { }
-        "jump_annex_v2" { }
         "jump_annex_v5" { }
         "jump_ante_b5" { }
         "jump_aperture" { }
         "jump_apex_b1" { }
-        "jump_apparition" { }
         "jump_apparition_b1" { }
         "jump_aqua" { }
-        "jump_aqua_rc1" { }
         "jump_arctic_a2" { }
         "jump_aridia" { }
         "jump_ariser_fix" { }
@@ -543,10 +531,7 @@
         "jump_ascent_b1" { }
         "jump_ascent_final" { }
         "jump_asshole_a3" { }
-        "jump_attached2_b2" { }
         "jump_attached2_rcx" { }
-        "jump_attached_b2" { }
-        "jump_attached_rc2" { }
         "jump_attached_rc6" { }
         "jump_auga_b2" { }
         "jump_aura_b4" { }
@@ -555,15 +540,12 @@
         "jump_ayers_v2" { }
         "jump_azure_v2" { }
         "jump_babylon" { }
-        "jump_ballin_a3" { }
         "jump_ballin_b2" { }
         "jump_banane" { }
         "jump_bangarang" { }
         "jump_BAQu_a2" { }
-        "jump_bb_initiate_b1" { }
         "jump_bb_initiate_b2" { }
         "jump_bear" { }
-        "jump_bear_b3" { }
         "jump_beef" { }
         "jump_beefmas" { }
         "jump_benny" { }
@@ -580,13 +562,11 @@
         "jump_bojack_v2" { }
         "jump_bomb" { }
         "jump_bongwater_final2" { }
-        "jump_bongwater_rc2" { }
         "jump_boredfox2_b1" { }
         "jump_boredgorge" { }
         "jump_bounce" { }
         "jump_bouncehop" { }
         "jump_bouncelicious" { }
-        "jump_bouncerific_v2" { }
         "jump_bouncerific_v3" { }
         "jump_broccoli" { }
         "jump_bromelia_rc5" { }
@@ -613,22 +593,16 @@
         "jump_core_b1" { }
         "jump_craze" { }
         "jump_crunch" { }
-        "jump_crunch_a2" { }
         "jump_crunch_v2_b1" { }
-        "jump_cube_b4" { }
         "jump_cube_b6" { }
         "jump_cubic" { }
         "jump_dad" { }
-        "jump_dahl" { }
-        "jump_dahl_fixed" { }
         "jump_damer_final_fix" { }
-        "jump_damer_rc6" { }
         "jump_ddpls" { }
         "jump_depleted" { }
         "jump_descent_v5" { }
         "jump_deserted_b1" { }
         "jump_despair" { }
-        "jump_destination" { }
         "jump_destination_v2" { }
         "jump_diabarha_b2" { }
         "jump_dicks_v3" { }
@@ -636,7 +610,6 @@
         "jump_doodle_b9" { }
         "jump_duey_v2" { }
         "jump_dystopia" { }
-        "jump_echelon_v1a" { }
         "jump_echelon_v2" { }
         "jump_echo" { }
         "jump_edgebug_b2" { }
@@ -644,15 +617,12 @@
         "jump_elephant_a2" { }
         "jump_elite" { }
         "jump_elysium_fn" { }
-        "jump_eons_b2" { }
         "jump_eons_rc2" { }
         "jump_everest_a3" { }
         "Jump_Evolved" { }
-        "Jump_Evolved_Final" { }
         "jump_excavation_final" { }
         "jump_ExileNPals" { }
         "jump_exile_v3" { }
-        "jump_ezekiel_beta3" { }
         "jump_ezekiel_final" { }
         "jump_ezpz_v4" { }
         "jump_facility" { }
@@ -661,8 +631,6 @@
         "jump_fauvism_a2" { }
         "jump_festivus" { }
         "jump_fifth" { }
-        "jump_fifth_rc1" { }
-        "jump_finite_final" { }
         "jump_finite_v2" { }
         "jump_fizzydrink_a2" { }
         "jump_flashblack" { }
@@ -700,16 +668,13 @@
         "jump_joa_v2" { }
         "jump_jormp" { }
         "jump_junk_solly_b1" { }
-        "jump_jurf2_a1" { }
         "jump_jurf2_a2" { }
         "jump_jurf_a2" { }
-        "jump_kek" { }
         "jump_kek2_rc2" { }
         "jump_kek_final3" { }
         "jump_kilo" { }
         "jump_kin" { }
         "jump_kinetics_d3" { }
-        "jump_kin_a1" { }
         "jump_klanana" { }
         "jump_knight_final" { }
         "jump_koro_b2" { }
@@ -717,15 +682,12 @@
         "jump_krakatoa_final" { }
         "jump_kuna" { }
         "jump_kusok" { }
-        "jump_kusok_b3" { }
         "jump_lathy_final" { }
         "jump_legion_beta3" { }
         "jump_leicht_redo" { }
         "jump_linear_final_fix" { }
-        "jump_lion_a6" { }
         "jump_lion_a7" { }
         "jump_lite_a0" { }
-        "jump_littleman_v3" { }
         "jump_littleman_v4" { }
         "jump_lokfeyn_a1" { }
         "jump_lolparty" { }
@@ -737,8 +699,6 @@
         "jump_mario_beta1" { }
         "jump_maso" { }
         "jump_mhx_b1" { }
-        "jump_minecraftia_preview12" { }
-        "jump_minecraftia_preview22" { }
         "jump_minecraftia_preview22r" { }
         "jump_mirage" { }
         "jump_mirrorsedge_rc2" { }
@@ -767,7 +727,6 @@
         "jump_omega3_jam_tf2" { }
         "jump_omega_redo" { }
         "jump_onion_v2" { }
-        "jump_onit_b4" { }
         "jump_onit_b4_fix" { }
         "jump_ontra" { }
         "jump_orange_v2" { }
@@ -777,12 +736,10 @@
         "jump_outmywindow_finallly" { }
         "jump_owakare" { }
         "jump_pagoda" { }
-        "jump_panama" { }
         "jump_panama_final" { }
         "jump_panama_v2" { }
         "jump_panama_v3" { }
         "jump_pandemonium" { }
-        "jump_pandemonium_rc1" { }
         "jump_pandemonium_v3" { }
         "jump_pants_b2" { }
         "jump_pdidey" { }
@@ -821,27 +778,21 @@
         "jump_rj_rckteer" { }
         "jump_rj_rckteer_adv_v2" { }
         "jump_rj_training_v3" { }
-        "jump_rnc_a1" { }
         "jump_rnc_a4" { }
         "jump_rook_beta" { }
         "jump_rope_final" { }
         "jump_ruelee_a6" { }
         "jump_rush" { }
         "jump_rush_h" { }
-        "jump_rush_h_b4" { }
         "jump_sanctuary_final" { }
         "jump_SDM_final" { }
         "jump_serenity" { }
-        "jump_serenity_rc3" { }
         "jump_serpentine_final" { }
         "jump_sexydev_v3" { }
-        "jump_shimano_a3" { }
         "jump_shimano_final" { }
         "jump_shimano_v3" { }
         "jump_shoe_a1" { }
         "jump_sick" { }
-        "jump_silly_a12" { }
-        "jump_silly_a8" { }
         "jump_silly_fin" { }
         "jump_simplified_rc1" { }
         "jump_simply_v2" { }
@@ -859,16 +810,13 @@
         "Jump_Snowshot" { }
         "Jump_Snowshot_Final" { }
         "jump_snowshot_v3" { }
-        "jump_soar_a3" { }
         "jump_soar_a4" { }
         "jump_sobel" { }
-        "jump_sohr_a4" { }
         "jump_sohr_a6" { }
         "jump_soma_a7" { }
         "jump_something_rc1_fix_v2" { }
         "jump_something_redo" { }
         "jump_sorh" { }
-        "jump_sorh_a1" { }
         "jump_sor_a4" { }
         "jump_spaghetti_v2" { }
         "jump_squared_b2" { }
@@ -879,20 +827,16 @@
         "jump_stleganickling_v1" { }
         "jump_straight" { }
         "jump_stretch_final" { }
-        "jump_strike_b1" { }
         "jump_strike_b2" { }
-        "jump_stripe_b4" { }
         "jump_stripe_b5" { }
         "jump_style" { }
         "jump_summer_rc1" { }
         "jump_sven_b1" { }
-        "jump_sweetnawful_rc1" { }
         "jump_sweetnawful_rc2" { }
         "jump_sync" { }
         "jump_tawatyr" { }
         "jump_taylor_swift" { }
         "jump_teardrop_b1" { }
-        "jump_temple_a3" { }
         "jump_temple_final" { }
         "jump_tf" { }
         "jump_tf2rj" { }
@@ -901,13 +845,11 @@
         "jump_town" { }
         "jump_toxic_v6" { }
         "jump_tpn_final1" { }
-        "jump_tpn_rc3" { }
         "jump_tshirt" { }
         "jump_turnip_v2" { }
         "jump_tutankhamun" { }
         "jump_twist_beta" { }
         "jump_twix_b4" { }
-        "jump_typh_a3" { }
         "jump_typh_a5" { }
         "jump_ultra_alpha" { }
         "jump_underground_final" { }
@@ -932,7 +874,6 @@
         "jump_yona_b2" { }
         "jump_yucca" { }
         "jump_yump" { }
-        "jump_yump_a5" { }
         "jump_yump_final1" { }
         "jump_ziggurat_b3" { }
         "Jump_Zone" { }
@@ -940,128 +881,11 @@
         "jump_zone_v4" { }
         "jump_zone_v6" { }
     }
-    "Arena"
-    {
-        "arena_badlands" { }
-        "arena_byre" { }
-        "arena_granary" { }
-        "arena_lumberyard" { }
-        "arena_nucleus" { }
-        "arena_offblast_final" { }
-        "arena_ravine" { }
-        "arena_sawmill" { }
-        "arena_watchtower" { }
-        "arena_well" { }
-    }
-    "Control Point"
-    {
-        "cp_5gorge" { }
-        "cp_badlands" { }
-        "cp_cloak" { }
-        "cp_coldfront" { }
-        "cp_degrootkeep" { }
-        "cp_dustbowl" { }
-        "cp_egypt_final" { }
-        "cp_fastlane" { }
-        "cp_foundry" { }
-        "cp_freight_final1" { }
-        "cp_gorge" { }
-        "cp_gorge_event" { }
-        "cp_granary" { }
-        "cp_gravelpit" { }
-        "cp_gullywash_final1" { }
-        "cp_junction_final" { }
-        "cp_manor_event" { }
-        "cp_mercenarypark" { }
-        "cp_metalworks" { }
-        "cp_mossrock" { }
-        "cp_mountainlab" { }
-        "cp_powerhouse" { }
-        "cp_process_final" { }
-        "cp_snakewater_final1" { }
-        "cp_snowplow" { }
-        "cp_standin_final" { }
-        "cp_steel" { }
-        "cp_sunshine" { }
-        "cp_sunshine_event" { }
-        "cp_vanguard" { }
-        "cp_well" { }
-        "cp_yukon_final" { }
-    }
-    "CTF"
-    {
-        "ctf_2fort" { }
-        "ctf_2fort_invasion" { }
-        "ctf_doublecross" { }
-        "ctf_foundry" { }
-        "ctf_gorge" { }
-        "ctf_hellfire" { }
-        "ctf_landfall" { }
-        "ctf_sawmill" { }
-        "ctf_thundermountain" { }
-        "ctf_turbine" { }
-        "ctf_well" { }
-    }
-    "KOTH"
-    {
-        "itemtest" { }
-        "koth_badlands" { }
-        "koth_bagel_event" { }
-        "koth_brazil" { }
-        "koth_harvest_event" { }
-        "koth_harvest_final" { }
-        "koth_highpass" { }
-        "koth_king" { }
-        "koth_lakeside_event" { }
-        "koth_lakeside_final" { }
-        "koth_lazarus" { }
-        "koth_maple_ridge_event" { }
-        "koth_moonshine_event" { }
-        "koth_nucleus" { }
-        "koth_probed" { }
-        "koth_sawmill" { }
-        "koth_slasher" { }
-        "koth_slaughter_event" { }
-        "koth_suijin" { }
-        "koth_viaduct" { }
-        "koth_viaduct_event" { }
-    }
-    "Payload"
-    {
-        "pl_badwater" { }
-        "pl_barnblitz" { }
-        "pl_borneo" { }
-        "pl_cactuscanyon" { }
-        "pl_enclosure_final" { }
-        "pl_fifthcurve_event" { }
-        "pl_frontier_final" { }
-        "pl_goldrush" { }
-        "pl_hoodoo_final" { }
-        "pl_millstone_event" { }
-        "pl_precipice_event_final" { }
-        "pl_rumble_event" { }
-        "pl_snowycoast" { }
-        "pl_swiftwater_final1" { }
-        "pl_thundermountain" { }
-        "pl_upward" { }
-    }
-    "Payload Race"
-    {
-        "plr_bananabay" { }
-        "plr_hightower" { }
-        "plr_hightower_event" { }
-        "plr_nightfall_final" { }
-        "plr_pipeline" { }
-    }
     "Pass Time"
     {
         "pass_brickyard" { }
         "pass_district" { }
         "pass_timbertown" { }
-    }
-    "Territory Control"
-    {
-        "tc_hydro" { }
     }
     "Player Destruction"
     {
@@ -1069,10 +893,5 @@
         "pd_monster_bash" { }
         "pd_pit_of_death_event" { }
         "pd_watergate" { }
-    }
-    "Special Delivery"
-    {
-        "sd_doomsday" { }
-        "sd_doomsday_event" { }
     }
 }
