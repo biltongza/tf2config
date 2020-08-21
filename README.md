@@ -12,7 +12,7 @@ Uses:
   - Add Observer Point (https://forums.alliedmods.net/showthread.php?t=81609)
   - Prophunt data pack (https://github.com/powerlord/sourcemod-prophunt/releases/download/v3.3.3/PHDataPack-2015-07-12.zip)
   - Prophunt Map Essentials Pack (https://github.com/powerlord/sourcemod-prophunt/releases/download/maps/PHMapEssentials.7z)
-  - TF2Attributes 1.2.1 (https://github.com/FlaminSarge/tf2attributes)
+  - TF2Attributes @ d5ae388d29dee446fc54a6e9b65d81bc04d24c73 (https://github.com/nosoop/tf2attributes)
 - f2-plugins-updated @ 49d3d877dbdd3a4cd38917c4022cf63a16539a97 (https://github.com/sapphonie/f2-plugins-updated)
 - MGEMod 2.2.1 (https://github.com/Lange/MGEMod)
 - SOAPDM @ 39d9c6a400046635f7667c64dfbc1a843b54300a (https://github.com/Lange/SOAP-TF2DM)
