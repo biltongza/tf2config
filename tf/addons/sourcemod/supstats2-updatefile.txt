@@ -1,0 +1,18 @@
+"Updater"
+{
+    "Information"
+    {
+        "Version"
+        {
+            "Latest"    "2.3.3"
+        }
+
+        "Notes" "Changes in 2.3.3:"
+        "Notes" "- Updated medigun type checking to include skins"
+    }
+
+    "Files"
+    {
+        "Plugin"    "Path_SM/plugins/supstats2.smx"
+    }
+}

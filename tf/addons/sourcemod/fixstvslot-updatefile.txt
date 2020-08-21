@@ -1,0 +1,18 @@
+"Updater"
+{
+    "Information"
+    {
+        "Version"
+        {
+            "Latest"    "1.0.4"
+        }
+
+        "Notes" "Changes in 1.0.4:"
+        "Notes" "- Moved tv hook to OnPluginStart to catch stv enable on server start"
+    }
+
+    "Files"
+    {
+        "Plugin"    "Path_SM/plugins/fixstvslot.smx"
+    }
+}

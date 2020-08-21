@@ -1,0 +1,18 @@
+# tf2config
+
+Just the files used to run my TF2 server.
+
+Uses:
+
+- metamod 1.10 (https://github.com/alliedmodders/metamod-source)
+- sourcemod 1.10 (https://github.com/alliedmodders/sourcemod)
+- DHooks2 2.2.0-detours14a (https://github.com/peace-maker/DHooks2)
+- Prophunt Redux 3.3.3 (https://forums.alliedmods.net/showthread.php?t=228086)
+  - TF2Items 1.6.4-279 (https://github.com/asherkin/TF2Items) https://builds.limetech.io/?project=tf2items
+  - Add Observer Point (https://forums.alliedmods.net/showthread.php?t=81609)
+  - Prophunt data pack (https://github.com/powerlord/sourcemod-prophunt/releases/download/v3.3.3/PHDataPack-2015-07-12.zip)
+  - Prophunt Map Essentials Pack (https://github.com/powerlord/sourcemod-prophunt/releases/download/maps/PHMapEssentials.7z)
+  - TF2Attributes 1.2.1 (https://github.com/FlaminSarge/tf2attributes)
+- f2-plugins-updated @ 49d3d877dbdd3a4cd38917c4022cf63a16539a97 (https://github.com/sapphonie/f2-plugins-updated)
+- MGEMod 2.2.1 (https://github.com/Lange/MGEMod)
+- SOAPDM @ 39d9c6a400046635f7667c64dfbc1a843b54300a (https://github.com/Lange/SOAP-TF2DM)
