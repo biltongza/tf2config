@@ -263,10 +263,9 @@
     }
     "MGE"
     {
-        "maps_invote" "5"
+        "maps_invote" "4"
         "mge_bball_v2" { }
         "mge_dueling_v1_fix1" { }
-        "mge_oihguv_sucks_a12" { }
         "mge_oihguv_sucks_b5" { }
         "mge_training_v8_beta4b" { }
     }
