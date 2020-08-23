@@ -22,3 +22,4 @@ Uses:
 - Pause plugin (https://etf2l.org/forum/customise/topic-27485/page-1/)  
 - TF2 Respawn system @ 1.0.8? (https://forums.alliedmods.net/showthread.php?p=611953)
 - TF2-ECJ-JumpAssist @ 2c3b6e78107a2136f4c8acc5322767f3338cec58 (https://github.com/JoinedSenses/TF2-ECJ-JumpAssist)
+- TF2-Dodgeball @ 1.4.4 (https://github.com/bloodgit/TF2-Dodgeball)
