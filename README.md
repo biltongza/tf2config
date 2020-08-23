@@ -20,3 +20,5 @@ Uses:
 - LogsTF uploader (https://www.teamfortress.tv/13598/?page=1#post-1)
   - Curl 1.3.0.0 (https://forums.alliedmods.net/showthread.php?t=152216)
 - Pause plugin (https://etf2l.org/forum/customise/topic-27485/page-1/)  
+- TF2 Respawn system @ 1.0.8? (https://forums.alliedmods.net/showthread.php?p=611953)
+- TF2-ECJ-JumpAssist @ 2c3b6e78107a2136f4c8acc5322767f3338cec58 (https://github.com/JoinedSenses/TF2-ECJ-JumpAssist)
